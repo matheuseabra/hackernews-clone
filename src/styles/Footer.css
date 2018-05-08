@@ -1,0 +1,15 @@
+footer {
+ height: 25vh;
+ width: 100vw;
+ padding: 2rem;
+ background: #111;
+}
+
+h2 {
+    color: #FFF;
+}
+   
+p {
+    color: #FFF;
+    opacity: .7;
+}
